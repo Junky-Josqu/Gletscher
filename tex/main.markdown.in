@@ -1,0 +1,26 @@
+%% Arktis Antarktis
+\section{Die Arktis und Antarktis}
+\begin{frame}
+  \frametitle{Die Arktis und Antarktis}
+  \subsection{Vergleich}
+    \subsection{Prognosen:}
+    \begin{itemize}
+      \item Arktis
+      \item Antarktis
+    \end{itemize}
+
+
+
+\end{frame}
+
+
+%% Quellen
+\section{Quellen}
+\begin{frame}
+\renewcommand{\bibfont}{\footnotesize}
+\frametitle{Quellen}
+
+\bibliographystyle{apalike}
+\bibliography{refs}
+
+\end{frame}

@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Gletscher Allgemein}{3}{0}{1}
+\beamer@sectionintoc {2}{Anden}{4}{0}{2}
+\beamer@sectionintoc {3}{HHow?}{5}{0}{3}
+\beamer@sectionintoc {4}{Example}{7}{0}{4}
+\beamer@subsectionintoc {4}{1}{Proposed Menus}{7}{0}{4}
+\beamer@subsectionintoc {4}{2}{Budgeting}{9}{0}{4}
